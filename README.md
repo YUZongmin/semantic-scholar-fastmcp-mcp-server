@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yuzongmin-semantic-scholar-fastmcp-mcp-server-badge.png)](https://mseep.ai/app/yuzongmin-semantic-scholar-fastmcp-mcp-server)
+
 # Semantic Scholar MCP Server
 
 [![smithery badge](https://smithery.ai/badge/semantic-scholar-fastmcp-mcp-server)](https://smithery.ai/server/semantic-scholar-fastmcp-mcp-server)
